@@ -1,2 +1,2 @@
 ## c the world
-Following a [tutorialspoint.com tutorial](https://www.tutorialspoint.com/cprogramming/c_overview.htm) on C programming. 
+Following a [Linkedin Learning tutorial](https://www.linkedin.com/learning/learning-c-5/welcome?u=78576122) on C programming. 
